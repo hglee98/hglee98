@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Hits](https://hits.sh/github.com/hglee98.svg?view=today-total)](https://hits.sh/github.com/hglee98/)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=hglee98&show_icons=true)
 <!--
 **hglee98/hglee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
