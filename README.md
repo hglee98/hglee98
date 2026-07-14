@@ -1,7 +1,9 @@
-## Hi there 👋
-[![My GitFut card](https://gitfut.com/hglee98.png)](https://gitfut.com/hglee98)
+## Hi there 👋 [![Hits](https://hits.sh/github.com/hglee98.svg?view=today-total)](https://hits.sh/github.com/hglee98/)
+<a href="https://gitfut.com/hglee98">
+  <img src="https://gitfut.com/hglee98.png" width="20%" alt="My GitFut card">
+</a>
 
-[![Hits](https://hits.sh/github.com/hglee98.svg?view=today-total)](https://hits.sh/github.com/hglee98/)
+
 <!--
 **hglee98/hglee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
